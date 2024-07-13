@@ -1,0 +1,22 @@
+/* Write your CSS here */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.navbar {
+  background-color: #475569;
+  color: white;
+  padding: 20px;
+  padding-left: 100px;
+}
+.navbar-check {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+}
+.checkbox-div {
+  display: flex;
+  gap: 10px;
+}

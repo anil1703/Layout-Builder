@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.header-home {
+  background-color: #cbd5e1;
+  color: #475569;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  height: 100px;
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
